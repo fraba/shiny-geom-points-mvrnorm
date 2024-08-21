@@ -16,3 +16,7 @@ install.packages("shiny")
 install.packages("ggplot2")
 install.packages("MASS")
 ```
+To run the app
+```{r}
+shiny::runGitHub("shiny-geom-points-mvrnorm", "fraba")
+```
