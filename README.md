@@ -2,6 +2,8 @@
 
 Shiny app plotting simulation from a multivariate normal distribution with varying means, SDs and correlations.
 
+![Demo of app](demo.gif)
+
 The app requires these packages:
 
 ```{r}
